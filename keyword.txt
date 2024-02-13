@@ -2,7 +2,6 @@ lcdshift    KEYWORD1
 initialize  KEYWORD2
 begin   KEYWORD2
 print   KEYWORD2
-printpage   KEYWORD2
+end KEYWORD2
 update  KEYWORD2
 go  KEYWORD2
-
